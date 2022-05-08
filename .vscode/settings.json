@@ -1,0 +1,5 @@
+{
+  "editor.formatOnSave": true,
+  "rust-analyzer.rustfmt.enableRangeFormatting": false,
+  "workbench.colorTheme": "Ayu Mirage Bordered"
+}
